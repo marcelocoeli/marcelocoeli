@@ -23,7 +23,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=radical)
+![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocoeli&show_icons=true&theme=radical)
 
 ---
 
