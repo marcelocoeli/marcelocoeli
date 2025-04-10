@@ -1,21 +1,35 @@
-# Olá! Eu sou o Marcelo 👋
+# 👋 Olá! Eu sou o Marcelo
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Desenvolvendo o projeto Data House para análise de imóveis com IA  
-📊 Python • FastAPI • PostgreSQL • Streamlit • Machine Learning  
-💡 Em busca da primeira oportunidade na área de tecnologia!
+🎯 **Objetivo atual**: Conquistar minha primeira oportunidade na área de Tecnologia, com foco em desenvolvimento de software e projetos de dados.
 
-## 📈 Projetos em destaque
+💻 **Estudante de**: Análise e Desenvolvimento de Sistemas
 
-- **[Data House](link-do-repositorio)** — Análise avançada de imóveis com Machine Learning e dashboard interativo
+🚀 **Projetos em andamento**:
+- **Data House 🏡**: Um projeto completo de análise de imóveis, com backend em FastAPI, análise de dados em Python, Machine Learning, e dashboard interativo.
 
-## 🌱 Aprendizado contínuo
+🛠️ **Tecnologias que estou aprendendo e utilizando**:
+- Python (Pandas, NumPy, Scikit-Learn)
+- FastAPI
+- Streamlit
+- PostgreSQL
+- Docker
+- Git & GitHub
 
-Atualmente estudando:
-- Engenharia de Software aplicada a projetos práticos
-- Desenvolvimento de APIs com FastAPI
-- Visualização de dados com Streamlit
-- Machine Learning com Scikit-Learn
+📫 **Como me encontrar**:
+- Email: _[Seu e-mail profissional]_
+- LinkedIn: _[Seu LinkedIn, se tiver]_
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=radical)
+
+---
+
+## ✍️ Sobre mim
+
+Estou em constante aprendizado e sempre buscando novos desafios que me ajudem a crescer na área de tecnologia. Estou desenvolvendo projetos pessoais para aprender na prática e construir um portfólio sólido.
 
 ---
 
