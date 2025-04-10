@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou o Marcelo 👋
 
-<!--
-**marcelocoeli/marcelocoeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Desenvolvendo o projeto Data House para análise de imóveis com IA  
+📊 Python • FastAPI • PostgreSQL • Streamlit • Machine Learning  
+💡 Em busca da primeira oportunidade na área de tecnologia!
 
-Here are some ideas to get you started:
+## 📈 Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Data House](link-do-repositorio)** — Análise avançada de imóveis com Machine Learning e dashboard interativo
+
+## 🌱 Aprendizado contínuo
+
+Atualmente estudando:
+- Engenharia de Software aplicada a projetos práticos
+- Desenvolvimento de APIs com FastAPI
+- Visualização de dados com Streamlit
+- Machine Learning com Scikit-Learn
+
+---
+
+Seja bem-vindo ao meu GitHub! 🚀
